@@ -3,6 +3,13 @@
 - 🌱 I’m currently learning software defined radio, reverse engineering, and random stuff
 - 😄 Pronouns: He/Him
 
+- 📫 How to reach me: https://www.linkedin.com/in/rajashishpatel/
+
+### &#128200; Statistics 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajpatel0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajpatel0&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **rajpatel0/rajpatel0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
